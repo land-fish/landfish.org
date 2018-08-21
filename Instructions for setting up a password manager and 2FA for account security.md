@@ -1,6 +1,6 @@
-Instructions for setting up a password manager and 2FA for account security
+# Instructions for setting up a password manager and 2FA for account security
 
-Created by Landfish - aka Jeffrey Ladish
+Created by Landfish
 
 This document describes the basic steps to setting up a password manager, generating secure passwords, and setting up 2FA on your accounts.
 
