@@ -28,11 +28,11 @@ Date completed: ________
 
 Make sure you have automatic updates turned on for your phone and your laptop. Google for this if you’re having trouble finding the right menu. Newer devices should have this turned on by default, but it’s definitely worth double-checking!
 
-[ ] Phone
+- [ ] Phone
 
-[ ] Laptop
+- [ ] Laptop
 
-[ ] Secondary phone or laptop (if applicable)
+- [ ] Secondary phone or laptop (if applicable)
 
 ## Full disk encryption
 
