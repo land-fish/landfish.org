@@ -2,7 +2,7 @@ How to Setup and Use Signal
 
 Created by Landfish - aka Jeffrey Ladish
 
-![image alt text](image_0\ (1).png)
+![image alt text](image_s.png)
 
 ## **Android**
 
