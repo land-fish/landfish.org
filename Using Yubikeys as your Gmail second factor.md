@@ -1,4 +1,5 @@
-# Created by Landfish
+# Using Yubikeys as your Gmail second factor
+Created by Landfish
 
 This tutorial explains how to configure your account with two security keys and an authenticator app. This is the highest form of Gmail security unless you want to go all the way and sign up for Google’s [Advanced Protection](https://landing.google.com/advancedprotection/) program. (This program requires you to *only* use security keys for 2FA and currently only works in the chrome browser).
 
