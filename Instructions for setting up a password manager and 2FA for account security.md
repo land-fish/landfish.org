@@ -2,9 +2,10 @@ Instructions for setting up a password manager and 2FA for account security
 
 Created by Landfish - aka Jeffrey Ladish
 
-This document describes the basic steps to setting up a password manager, generating secure passwords, and setting up 2FA on your accounts. You can reach out to [jeff.ladish@gmail.com](mailto:jeff.ladish@gmail.com) if you have any questions.
+This document describes the basic steps to setting up a password manager, generating secure passwords, and setting up 2FA on your accounts.
 
-## 1. Install a Password Manager
+## 
+1. Install a Password Manager
 
 Install either 1Password or Lastpass to use as a password manager. Choose a secure password for this account. The first link describes how to make a secure password you can memorize. Create one, write it down and keep it in a secure location. It’s super important that you don’t lose this, as there will be no way to get your passwords if you lose it. If you already have a password manager with a secure password, you can skip this step.
 
@@ -34,7 +35,8 @@ Use your password manager to generate new secure passwords for each account, unl
 
 Enabling two-factor authentication greatly increases the security of your account. I recommend using Google Authenticator and/or security keys (yubikeys). Authenticator apps are much more secure than SMS (text) second factor, but if SMS is all that will work, you can use that method. Below you will find links to the Apps to install and the accounts to secure, along with tutorials to follow if you get stuck.
 
-If you’re using yubikeys, there are instructions for your [google account](https://docs.google.com/document/d/1NTKy780CjFCqzWEjJXZGkevCHkpgdRqJUs8pBgrt2dk/edit#), but rest should be pretty similar.
+
+If you’re using yubikeys, there are instructions for your [google account](), but rest should be pretty similar.
 
 Authenticator Apps:
 
@@ -56,7 +58,7 @@ Accounts to secure:
 
 If using yubikeys:
 
-* [https://docs.google.com/document/d/1NTKy780CjFCqzWEjJXZGkevCHkpgdRqJUs8pBgrt2dk/edit#](https://docs.google.com/document/d/1NTKy780CjFCqzWEjJXZGkevCHkpgdRqJUs8pBgrt2dk/edit#) 
+* [link_to_doc]() 
 
 * Facebook
 
