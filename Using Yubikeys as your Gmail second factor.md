@@ -73,9 +73,13 @@ Much better. Security keys communicate with your browser, and will only give you
 
 To read more about how Phishing works, check out this report by Stripe's security team:
 
+[Ichthyology Phishing As A Science](https://www.blackhat.com/docs/us-17/wednesday/us-17-Burnett-Ichthyology-Phishing-As-A-Science-wp.pdf)
+
 [Ichthyology: Phishing as a Science](https://www.blackhat.com/docs/us-17/wednesday/us-17-Burnett-Ichthyology-Phishing-As-A-Science-wp.pdf)
 
-# **[What should I do with my security keys**?](https://www.blackhat.com/docs/us-17/wednesday/us-17-Burnett-Ichthyology-Phishing-As-A-Science-wp.pdf)
+# What should I do with my security keys
+
+
 
 I recommend keeping one on your key ring so you always have it (if you always have your keys on you. If not put it on something you *do* always have on you). Put the other one somewhere safe, like with your passport. The second one is a backup -- you should never carry it with your primary key. Part of the point of having two security keys is that if you lose your phone and your keys at the same time, you won’t be locked out of your account, because you will still have a backup key at home.
 
