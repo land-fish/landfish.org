@@ -20,10 +20,6 @@ If you want to be extra secure, take a moment now to go to [amazon](https://www.
 
 * [Instructions]() for setting up Signal
 
-Your name: _________
-
-Date completed: ________
-
 ## Automatic updates
 
 Make sure you have automatic updates turned on for your phone and your laptop. Google for this if you’re having trouble finding the right menu. Newer devices should have this turned on by default, but it’s definitely worth double-checking!
