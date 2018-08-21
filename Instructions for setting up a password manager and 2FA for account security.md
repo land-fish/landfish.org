@@ -4,8 +4,7 @@ Created by Landfish
 
 This document describes the basic steps to setting up a password manager, generating secure passwords, and setting up 2FA on your accounts.
 
-## 
-1. Install a Password Manager
+## 1. Install a Password Manager
 
 Install either 1Password or Lastpass to use as a password manager. Choose a secure password for this account. The first link describes how to make a secure password you can memorize. Create one, write it down and keep it in a secure location. It’s super important that you don’t lose this, as there will be no way to get your passwords if you lose it. If you already have a password manager with a secure password, you can skip this step.
 
