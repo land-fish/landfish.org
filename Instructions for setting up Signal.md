@@ -2,7 +2,7 @@ How to Setup and Use Signal
 
 Created by Landfish - aka Jeffrey Ladish
 
-![image alt text](image_0.png)
+![image alt text](image_0 (1).png)
 
 ## **Android**
 
@@ -26,7 +26,9 @@ Signal provides end-to-end encryption of your messages. This means that **no one
 
 ## **When to use Signal**
 
-If you are worried the content of your messages could someday be used against you, use Singal. In general, federal and sometimes local governments can compel tech companies to give up records of your conversations. However, if your messages are end-to-end encrypted, as they always are with Signal, then no government will be be able to access your data, though they could still get your metadata (such as who you talk with and when, though the Signal protocol obscures some of this data).For extra security, enable disappearing messages. It’s fine to set the timer to a day or week. The point is simply that after a short period of time, no record of the communication will exist, because both clients will delete their copies. While it’s certainly possible for the person you’re communicating with to save a copy of your messages, if they’re acting in good faith then you both will be protected.
+If you are worried the content of your messages could someday be used against you, use Singal. In general, federal and sometimes local governments can compel tech companies to give up records of your conversations. However, if your messages are end-to-end encrypted, as they always are with Signal, then no government will be be able to access your data, though they could still get your metadata (such as who you talk with and when, though the Signal protocol obscures some of this data).
+
+For extra security, enable disappearing messages. It’s fine to set the timer to a day or week. The point is simply that after a short period of time, no record of the communication will exist, because both clients will delete their copies. While it’s certainly possible for the person you’re communicating with to save a copy of your messages, if they’re acting in good faith then you both will be protected.
 
 If you’re ever communication about something illegal, such as illicit substances (not condoning any use of anything illegal, blah blah blah), **definitely** use Signal if you have to communicate online. 
 
