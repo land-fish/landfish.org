@@ -38,19 +38,19 @@ Make sure you have automatic updates turned on for your phone and your laptop. G
 
 Some devices will have this enabled by default. It’s usually as simple as checking a box and entering a password. Make sure you write down this password and keep it somewhere safe! If you forget / lose this password, you will lose access to your data forever.
 
-[ ] Phone
+- [ ] Phone
 
-   [ ] 6-8 digit pin required upon restart
+   - [ ] 6-8 digit pin required upon restart
 
-   [ ] Paper backup of PIN
+   - [ ] Paper backup of PIN
 
-[ ] Laptop
+- [ ] Laptop
 
-   [ ] Strong password set
+   - [ ] Strong password set
 
-   [ ] Paper backup of password
+   - [ ] Paper backup of password
 
-[ ] Secondary phone or laptop (if applicable)
+- [ ] Secondary phone or laptop (if applicable)
 
 ## Password Manager & Unique Strong Passwords
 
