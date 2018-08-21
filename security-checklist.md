@@ -1,24 +1,24 @@
-CFAR 2018 Security Checklist
+# Security Checklist
 
-Created by Landfish - aka Jeffrey Ladish
+Created by Landfish
 
 ![image alt text](image_0.png)
 
 ## Instructions for using this checklist
 
-On the menu bar of this doc, select "make a copy". Fill in your name (or not), and go through each section of the checklist. I recommend setting aside at least an hour to go through all of these things at once. Some sections have step-by-step instructions. This document is a work in progress. Feel free to [email me](mailto:jeff.ladish@gmail.com) with suggested improvements.
+On the menu bar of this doc, select "make a copy". Fill in your name (or not), and go through each section of the checklist. I recommend setting aside at least an hour to go through all of these things at once. Some sections have step-by-step instructions. This document is a work in progress. Feel free to make pull requests with suggested improvements.
 
 If you want to be extra secure, take a moment now to go to [amazon](https://www.amazon.com/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/ref=sr_1_3?s=pc&ie=UTF8&qid=1534820357&sr=1-3&keywords=yubikey) or yubikey’s [website](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c) and buy two Yubikeys to use as your second factor and backup second factor. 
 
 ## Instructions to accompany the checklist
 
-* Top level [folder](https://drive.google.com/drive/folders/1e206yRpQ_paeAXsyDTrTU_Yf2lymMP6R?usp=sharing)
+* Top level [folder]()
 
-* [Instructions](https://docs.google.com/document/d/1Gcy8Ak-IZMuEoe3hacH-Usmf7Hmkt2L55TAxswj70JA/edit?usp=sharing) for setting up a password manager, unique passwords, and 2FA
+* [Instructions]() for setting up a password manager, unique passwords, and 2FA
 
-* [Instructions](https://docs.google.com/document/d/1NTKy780CjFCqzWEjJXZGkevCHkpgdRqJUs8pBgrt2dk/edit?usp=sharing) for securing your gmail account with security keys (yubikeys)
+* [Instructions]() for securing your gmail account with security keys (yubikeys)
 
-* [Instructions](https://docs.google.com/document/d/10K95WB41YFQJsCawggCUSAH8ZBOjwuoxUjvFsN0iK2I/edit#) for setting up Signal
+* [Instructions]() for setting up Signal
 
 Your name: _________
 
@@ -54,7 +54,7 @@ Some devices will have this enabled by default. It’s usually as simple as chec
 
 ## Password Manager & Unique Strong Passwords
 
-[Instructions](https://docs.google.com/document/d/1Gcy8Ak-IZMuEoe3hacH-Usmf7Hmkt2L55TAxswj70JA/edit?usp=sharing). Install a password manager and browser extension. Use the password manager to generate new passwords if your previous password for an account is too short or is reused. If you already have good, unique passwords on all your accounts, then add them to your password manager.
+[Instructions](). Install a password manager and browser extension. Use the password manager to generate new passwords if your previous password for an account is too short or is reused. If you already have good, unique passwords on all your accounts, then add them to your password manager.
 
 [ ] Password Manager Installed
 
@@ -72,10 +72,10 @@ Some devices will have this enabled by default. It’s usually as simple as chec
 
 ## Two Factor Authentication (2FA)
 
-[Instructions](https://docs.google.com/document/d/1Gcy8Ak-IZMuEoe3hacH-Usmf7Hmkt2L55TAxswj70JA/edit#heading=h.ls5yj01j2mww). I recommend setting up 2FA on any account you really care about. If you’re really limited on time, at least make to sure to secure Gmail and Facebook if you use these. You can 80:20 it by adding 2FA to only your top 5-10 accounts.
+[Instructions](). I recommend setting up 2FA on any account you really care about. If you’re really limited on time, at least make to sure to secure Gmail and Facebook if you use these. You can 80:20 it by adding 2FA to only your top 5-10 accounts.
 
 
-For any account you can, set up Authenticator as a second factor (and optionally yubikeys). Make sure you have a backup, either a written-down authenticator code or an extra yubikey. Don’t use SMS unless there is no other 2FA option. This list is mostly for reference, so feel free to edit it to reflect your actual important accounts. [Note, if you’re doing the bet you’re only **required** to have this set up on 6 accounts]
+For any account you can, set up Authenticator as a second factor (and optionally yubikeys). Make sure you have a backup, either a written-down authenticator code or an extra yubikey. Don’t use SMS unless there is no other 2FA option. This list is mostly for reference, so feel free to edit it to reflect your actual important accounts.
 
 [ ] Primary email
 
@@ -134,7 +134,7 @@ For any account you can, set up Authenticator as a second factor (and optionally
 
 ## End-to-end encrypted messaging
 
-[Instructions](https://docs.google.com/document/d/10K95WB41YFQJsCawggCUSAH8ZBOjwuoxUjvFsN0iK2I/edit#). It’s a really good idea to set up an end-to-end encrypted messaging app. Even if you don’t think you need one now, you likely will in the future. It’s a good idea to have one already set up.
+[Instructions](). It’s a really good idea to set up an end-to-end encrypted messaging app. Even if you don’t think you need one now, you likely will in the future. It’s a good idea to have one already set up.
 
 [ ] Have set up Signal on mobile (or Whatsapp or Wire)
 
