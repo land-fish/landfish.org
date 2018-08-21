@@ -56,19 +56,19 @@ Some devices will have this enabled by default. It’s usually as simple as chec
 
 [Instructions](). Install a password manager and browser extension. Use the password manager to generate new passwords if your previous password for an account is too short or is reused. If you already have good, unique passwords on all your accounts, then add them to your password manager.
 
-[ ] Password Manager Installed
+- [ ] Password Manager Installed
 
-    [ ] Browser extension installed (optional)
+    - [ ] Browser extension installed (optional)
 
-[ ] Added passwords for your main accounts (use the 2FA list below if you need to)
+- [ ] Added passwords for your main accounts (use the 2FA list below if you need to)
 
-[ ] Changed insecure or non-unique passwords, using high-entropy passwords generated with your password manager
+- [ ] Changed insecure or non-unique passwords, using high-entropy passwords generated with your password manager
 
-[ ] Created secure master password (if you don’t know how, use [this method](https://blog.lastpass.com/2013/04/how-to-create-secure-master-password.html/) or [Diceware](http://world.std.com/~reinhold/diceware.html) if you want to be really secure) 
+- [ ] Created secure master password (if you don’t know how, use [this method](https://blog.lastpass.com/2013/04/how-to-create-secure-master-password.html/) or [Diceware](http://world.std.com/~reinhold/diceware.html) if you want to be really secure) 
 
-[ ] Backed up master password
+- [ ] Backed up master password
 
-[ ] Memorized master password
+- [ ] Memorized master password
 
 ## Two Factor Authentication (2FA)
 
@@ -77,65 +77,65 @@ Some devices will have this enabled by default. It’s usually as simple as chec
 
 For any account you can, set up Authenticator as a second factor (and optionally yubikeys). Make sure you have a backup, either a written-down authenticator code or an extra yubikey. Don’t use SMS unless there is no other 2FA option. This list is mostly for reference, so feel free to edit it to reflect your actual important accounts.
 
-[ ] Primary email
+- [ ] Primary email
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Work email
+- [ ] Work email
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Bank account
+- [ ] Bank account
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Facebook
+- [ ] Facebook
 
-   [ ] 2FA backup
-[ ] Twitter
+   - [ ] 2FA backup
+- [ ] Twitter
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] LinkedIn
+- [ ] LinkedIn
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Github
+- [ ] Github
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Coinbase
+- [ ] Coinbase
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Dropbox
+- [ ] Dropbox
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Tumblr
+- [ ] Tumblr
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Reddit
+- [ ] Reddit
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Office 365
+- [ ] Office 365
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Slack
+- [ ] Slack
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
-[ ] Apple account
+- [ ] Apple account
 
-   [ ] 2FA backup
+   - [ ] 2FA backup
 
 ## End-to-end encrypted messaging
 
 [Instructions](). It’s a really good idea to set up an end-to-end encrypted messaging app. Even if you don’t think you need one now, you likely will in the future. It’s a good idea to have one already set up.
 
-[ ] Have set up Signal on mobile (or Whatsapp or Wire)
+- [ ] Have set up Signal on mobile (or Whatsapp or Wire)
 
-[ ] Have set up Signal for desktop (optional)
+- [ ] Have set up Signal for desktop (optional)
