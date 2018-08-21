@@ -1,6 +1,4 @@
-Enabling 2FA for your Gmail account with Yubikeys
-
-Created by Landfish - aka Jeffrey Ladish
+# Created by Landfish
 
 This tutorial explains how to configure your account with two security keys and an authenticator app. This is the highest form of Gmail security unless you want to go all the way and sign up for Google’s [Advanced Protection](https://landing.google.com/advancedprotection/) program. (This program requires you to *only* use security keys for 2FA and currently only works in the chrome browser).
 
@@ -16,9 +14,11 @@ This tutorial explains how to configure your account with two security keys and 
 
 Buy two security keys (yubikeys). These two keys can each be used as a second factor to access your account. One is a backup to leave at home in a secure place, and one is to carry with you.
 
-![image alt text](image_0.png)
+![image alt text](image_y.png)
 
-If your computer has normal USB ports, you can buy two of the blue yubikeys for $20 each on [Amazon](https://www.amazon.com/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/ref=sr_1_3?s=pc&ie=UTF8&qid=1534802520&sr=1-3&keywords=yubikey).If your computer has usb-c ports, like the newer macbooks do, then you might want to get one usb-a and one [usb-c yubikey](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c). 
+If your computer has normal USB ports, you can buy two of the blue yubikeys for $20 each on [Amazon](https://www.amazon.com/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/ref=sr_1_3?s=pc&ie=UTF8&qid=1534802520&sr=1-3&keywords=yubikey).
+
+If your computer has usb-c ports, like the newer macbooks do, then you might want to get one usb-a and one [usb-c yubikey](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c). 
 
 To get setup, navigate to google.com or gmail.com. Then click on the circle in the top right of your browser, and click on "Google Account".
 
@@ -48,7 +48,10 @@ Now, scroll down to the section labeled "Set up alternative second step"
 
 ![image alt text](image_4.png)
 
-Select "Authenticator app" and follow the instructions when prompted.Download Google Authenticator from the[ Android app store](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US) or the[ Apple app store](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8).  
+Select "Authenticator app" and follow the instructions when prompted.
+
+Download Google Authenticator from the[ Android app store](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US) or the[ Apple app store](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8). 
+ 
 
 When you’re done, you should have 2 security keys and the authenticator app listed under "Your second step." 
 
