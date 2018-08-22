@@ -1,4 +1,4 @@
-# How to not get hacked
+# Landfish's security resources
 
 Hey friends, I created some resources for securing your accounts.
 
