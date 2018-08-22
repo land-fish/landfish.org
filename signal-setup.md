@@ -1,6 +1,6 @@
 # How to Setup and Use Signal
 
-Created by Landfish - aka Jeffrey Ladish
+Created by Landfish
 
 ![image alt text](image_s.png)
 
