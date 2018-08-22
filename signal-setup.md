@@ -6,15 +6,15 @@ Created by Landfish - aka Jeffrey Ladish
 
 ## **Android**
 
-* [How to: Use Signal for Android | Surveillance Self-Defense](https://ssd.eff.org/en/module/how-use-signal-android)
+- [How to: Use Signal for Android | Surveillance Self-Defense](https://ssd.eff.org/en/module/how-use-signal-android)
 
 ## **iOS**
 
-* [How to: Use Signal on iOS | Surveillance Self-Defense](https://ssd.eff.org/en/module/how-use-signal-ios)
+- [How to: Use Signal on iOS | Surveillance Self-Defense](https://ssd.eff.org/en/module/how-use-signal-ios)
 
 ## **Desktop - Mac or Windows**
 
-* [How do I install Signal Desktop? – Support](https://support.signal.org/hc/en-us/articles/214507138-How-do-I-install-Signal-Desktop-)
+- [How do I install Signal Desktop? – Support](https://support.signal.org/hc/en-us/articles/214507138-How-do-I-install-Signal-Desktop-)
 
 ## **What protection does Signal provide?**
 
