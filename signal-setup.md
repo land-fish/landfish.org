@@ -14,7 +14,7 @@ Created by Landfish - aka Jeffrey Ladish
 
 ## **Desktop - Mac or Windows**
 
-- [How do I install Signal Desktop? – Support](https://support.signal.org/hc/en-us/articles/214507138-How-do-I-install-Signal-Desktop-)
+- [How do I install Signal Desktop? – Support](https://support.signal.org/hc/en-us/articles/360008216551-Installing-Signal)
 
 ## **What protection does Signal provide?**
 
