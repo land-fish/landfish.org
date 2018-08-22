@@ -2,6 +2,8 @@
 
 Hey friends, I created some resources for securing your accounts.
 
+![image alt text](landfish.jpg)
+
 ### Instructions for setting up a password manager and 2FA for account security
 
 [Instructions](http://landfish.org/account-security)
