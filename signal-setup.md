@@ -30,8 +30,6 @@ If you are worried the content of your messages could someday be used against yo
 
 For extra security, enable disappearing messages. It’s fine to set the timer to a day or week. The point is simply that after a short period of time, no record of the communication will exist, because both clients will delete their copies. While it’s certainly possible for the person you’re communicating with to save a copy of your messages, if they’re acting in good faith then you both will be protected.
 
-If you’re ever communication about something illegal, such as illicit substances (not condoning any use of anything illegal, blah blah blah), **definitely** use Signal if you have to communicate online. 
-
 ## **Verify Safety Numbers**
 
 For extra protection, verify your security numbers with the person you’re talking with. You can find this under the conversation settings with that person. It’s best to verify in person, but even using fb messenger or some other communication channel is a lot better than nothing, since an adversary would have to compromise two independent services in order to successfully carry out a man-in-the-middle attack.
