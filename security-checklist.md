@@ -12,13 +12,13 @@ If you want to be extra secure, take a moment now to go to [amazon](https://www.
 
 ## Instructions to accompany the checklist
 
-* Top level [folder]()
+* Top level [folder](https://landfish.org)
 
-* [Instructions]() for setting up a password manager, unique passwords, and 2FA
+* [Instructions](https://landfish.org/account-security) for setting up a password manager, unique passwords, and 2FA
 
-* [Instructions]() for securing your gmail account with security keys (yubikeys)
+* [Instructions](https://landfish.org/yubikeys-for-gmail) for securing your gmail account with security keys (yubikeys)
 
-* [Instructions]() for setting up Signal
+* [Instructions](https://landfish.org/signal-setup) for setting up Signal
 
 ## Automatic updates
 
@@ -50,7 +50,7 @@ Some devices will have this enabled by default. It’s usually as simple as chec
 
 ## Password Manager & Unique Strong Passwords
 
-[Instructions](). Install a password manager and browser extension. Use the password manager to generate new passwords if your previous password for an account is too short or is reused. If you already have good, unique passwords on all your accounts, then add them to your password manager.
+[Instructions](https://landfish.org/account-security). Install a password manager and browser extension. Use the password manager to generate new passwords if your previous password for an account is too short or is reused. If you already have good, unique passwords on all your accounts, then add them to your password manager.
 
 - [ ] Password Manager Installed
 
@@ -68,7 +68,7 @@ Some devices will have this enabled by default. It’s usually as simple as chec
 
 ## Two Factor Authentication (2FA)
 
-[Instructions](). I recommend setting up 2FA on any account you really care about. If you’re really limited on time, at least make to sure to secure Gmail and Facebook if you use these. You can 80:20 it by adding 2FA to only your top 5-10 accounts.
+[Instructions](https://landfish.org/account-security). I recommend setting up 2FA on any account you really care about. If you’re really limited on time, at least make to sure to secure Gmail and Facebook if you use these. You can 80:20 it by adding 2FA to only your top 5-10 accounts.
 
 
 For any account you can, set up Authenticator as a second factor (and optionally yubikeys). Make sure you have a backup, either a written-down authenticator code or an extra yubikey. Don’t use SMS unless there is no other 2FA option. This list is mostly for reference, so feel free to edit it to reflect your actual important accounts.
@@ -130,7 +130,7 @@ For any account you can, set up Authenticator as a second factor (and optionally
 
 ## End-to-end encrypted messaging
 
-[Instructions](). It’s a really good idea to set up an end-to-end encrypted messaging app. Even if you don’t think you need one now, you likely will in the future. It’s a good idea to have one already set up.
+[Instructions](https://landfish.org/signal-setup). It’s a really good idea to set up an end-to-end encrypted messaging app. Even if you don’t think you need one now, you likely will in the future. It’s a good idea to have one already set up.
 
 - [ ] Have set up Signal on mobile (or Whatsapp or Wire)
 
