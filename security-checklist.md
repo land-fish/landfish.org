@@ -6,7 +6,7 @@ Created by Landfish
 
 ## Instructions for using this checklist
 
-On the menu bar of this doc, select "make a copy". Fill in your name (or not), and go through each section of the checklist. I recommend setting aside at least an hour to go through all of these things at once. Some sections have step-by-step instructions. This document is a work in progress. Feel free to make pull requests with suggested improvements.
+Go through each section of the checklist. I recommend setting aside at least an hour to go through all of these things at once. Some sections have step-by-step instructions. This document is a work in progress. Feel free to make pull requests with suggested improvements.
 
 If you want to be extra secure, take a moment now to go to [amazon](https://www.amazon.com/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/ref=sr_1_3?s=pc&ie=UTF8&qid=1534820357&sr=1-3&keywords=yubikey) or yubikey’s [website](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c) and buy two Yubikeys to use as your second factor and backup second factor. 
 
