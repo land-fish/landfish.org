@@ -6,11 +6,11 @@ Created by Landfish - aka Jeffrey Ladish
 
 ## **Android**
 
-- [How to: Use Signal for Android | Surveillance Self-Defense](https://ssd.eff.org/en/module/how-use-signal-android)
+- [How to: Use Signal for Android](https://ssd.eff.org/en/module/how-use-signal-android)
 
 ## **iOS**
 
-- [How to: Use Signal on iOS | Surveillance Self-Defense](https://ssd.eff.org/en/module/how-use-signal-ios)
+- [How to: Use Signal on iOS](https://ssd.eff.org/en/module/how-use-signal-ios)
 
 ## **Desktop - Mac or Windows**
 
