@@ -1,4 +1,4 @@
-How to Setup and Use Signal
+# How to Setup and Use Signal
 
 Created by Landfish - aka Jeffrey Ladish
 
