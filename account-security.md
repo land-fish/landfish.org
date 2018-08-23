@@ -35,7 +35,7 @@ Use your password manager to generate new secure passwords for each account, unl
 Enabling two-factor authentication greatly increases the security of your account. I recommend using Google Authenticator and/or security keys (yubikeys). Authenticator apps are much more secure than SMS (text) second factor, but if SMS is all that will work, you can use that method. Below you will find links to the Apps to install and the accounts to secure, along with tutorials to follow if you get stuck.
 
 
-If you’re using yubikeys, there are instructions for your [google account](), but rest should be pretty similar.
+If you’re using yubikeys, there are instructions for your [google account](https://landfish.org/yubikeys-for-gmail), but rest should be pretty similar.
 
 Authenticator Apps:
 
@@ -57,7 +57,7 @@ Accounts to secure:
 
 If using yubikeys:
 
-* [link_to_doc]() 
+* [Setting up yubikeys for Gmail 2FA](https://landfish.org/yubikeys-for-gmail) 
 
 * Facebook
 
