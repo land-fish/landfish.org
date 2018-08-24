@@ -60,7 +60,7 @@ Some devices will have this enabled by default. It’s usually as simple as chec
 
 - [ ] Changed insecure or non-unique passwords, using high-entropy passwords generated with your password manager
 
-- [ ] Created secure master password (if you don’t know how, use [this method](https://blog.lastpass.com/2013/04/how-to-create-secure-master-password.html/) or [Diceware](http://world.std.com/~reinhold/diceware.html) if you want to be really secure) 
+- [ ] Created secure master password (if you don’t know how, use [this method](https://blog.lastpass.com/2013/04/how-to-create-secure-master-password.html/) or [the Eff's method](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) if you want to be really secure) 
 
 - [ ] Backed up master password
 
